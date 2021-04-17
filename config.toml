@@ -1,0 +1,4 @@
+baseURL = "http://archflow.io/"
+languageCode = "en-us"
+title = "Archflow"
+theme = "ananke"
